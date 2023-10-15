@@ -572,6 +572,7 @@ li {
   transform: translateY(-50%);
 }
 
+
 .timeline .date::before {
   content: attr(data-date);
   left: -21rem;
@@ -589,6 +590,7 @@ li {
   width: 1.5rem;
   background-color: #313534;
 }
+
 
 /*End timeline*/
 
@@ -618,6 +620,7 @@ li {
   outline: none;
   cursor: pointer;
   border: none;
+  
 }
 .btn:hover,
 .btn:focus,
