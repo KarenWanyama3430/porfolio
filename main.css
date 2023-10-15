@@ -531,6 +531,7 @@ li {
   justify-content: center;
 }
 
+
 /*End portfolio*/
 
 /*Start timeline*/
@@ -620,7 +621,7 @@ li {
   outline: none;
   cursor: pointer;
   border: none;
-  
+
 }
 .btn:hover,
 .btn:focus,
