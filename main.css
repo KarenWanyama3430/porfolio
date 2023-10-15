@@ -52,6 +52,7 @@ body {
   margin: 0%;
 }
 
+
 a {
   text-decoration: none;
   color: #eee;
@@ -70,6 +71,7 @@ section {
   padding: 6rem 0;
   overflow: hidden;
 }
+
 
 /*End global*/
 
@@ -98,6 +100,7 @@ section {
   position: relative;
   margin-bottom: 1rem;
 }
+
 
 .section-heading p {
   text-transform: uppercase;
