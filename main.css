@@ -123,6 +123,7 @@ section {
   border-radius: 0.8rem;
 }
 
+
 .section-heading h1::after {
   width: 1.5rem;
   height: 1.5rem;
@@ -170,6 +171,7 @@ header {
 li {
   margin: 0 2rem;
 }
+
 
 .nav-link {
   font-family: "Cookie", cursive;
